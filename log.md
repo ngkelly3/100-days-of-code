@@ -8,3 +8,6 @@ Set up a local SlackBot and using Algorithmia API to generate user sentiment, fo
 
 ### Day 2: January 3, 2016
 Toyed with sample version of SlackBot w/ Algorithmia API.  Realized it wasn't working, hacked out a working solution using the standard plugin implementation that slackhq recommends.  Might be a better way - learned some debugging w/ Python!
+
+### Day 3:  January 5, 2016
+Read documentation to add conversation functionality based on sentiment
